@@ -1,6 +1,6 @@
-streamlit==1.31.0
-pandas==2.2.0
-numpy==1.26.3
-neuralprophet==0.6.2
-plotly==5.18.0
-openpyxl==3.1.2
+streamlit
+pandas
+numpy
+neuralprophet
+plotly
+openpyxl
