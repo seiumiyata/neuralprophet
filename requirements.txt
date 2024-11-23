@@ -1,6 +1,8 @@
 streamlit
 pandas
 numpy
-neuralprophet
+torch>=1.4.0,<1.7.0
+neuralprophet==0.6.0rc1
 plotly
 openpyxl
+holidays>=0.10.2,<0.12
